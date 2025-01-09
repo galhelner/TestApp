@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         // this comment is new (=
         // this should be only inside gal_branch
+        // this is a new comment
     }
 }
