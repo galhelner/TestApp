@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // this comment is new (=
+        // this should be only inside gal_branch
     }
 }
